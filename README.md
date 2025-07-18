@@ -9,7 +9,9 @@
 **A feature-rich media downloader for multiple platforms**
 
 [![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-Media%20Downloader%20Pro-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/12MliuLwf618nkTA_aQ-Xw0hVj_Tq0l4R)
-[![VERSION](https://img.shields.io/badge/V1.0.0-Latest-green?style=for-the-badge)](https://github.com/your-username/Media-Downloader-Pro)
+[![RELEASES](https://img.shields.io/badge/RELEASES-V1.0.0-green?style=for-the-badge&logo=github)](https://github.com/Bobbycoding777/Media-Download-Pro/releases)
+[![TOOLS](https://img.shields.io/badge/TOOLS-Support-orange?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/12MliuLwf618nkTA_aQ-Xw0hVj_Tq0l4R)
+[![TUTORIAL](https://img.shields.io/badge/HOW%20TO%20USE-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@your-channel)
 [![SUPPORT](https://img.shields.io/badge/SUPPORT-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Enochvann)
 [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)](LICENSE)
 
