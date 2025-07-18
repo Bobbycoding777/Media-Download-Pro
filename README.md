@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Media Downloader Pro](logo.png)
+<img src="logo.png" alt="Media Downloader Pro" width="120" height="120">
 
 # Media Downloader Pro
 
