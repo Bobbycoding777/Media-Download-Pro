@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![Media Downloader Pro](assets/app_logo.png)
+![Media Downloader Pro](logo.png)
+
+# Media Downloader Pro
 
 **A feature-rich media downloader for multiple platforms**
 
@@ -56,6 +58,10 @@ Click the button above to download the latest version from Google Drive.
 | Facebook | ✅ | ✅ | ✅ | ✅ |
 | Douyin | ✅ | ✅ | - | - |
 | Xiaohongshu | ✅ | ✅ | - | ✅ |
+| Kuaishou | ✅ | ✅ | - | - |
+| Pinterest | ✅ | ✅ | - | ✅ |
+| Kwai | ✅ | ✅ | - | - |
+| SnakVideo | ✅ | ✅ | - | - |
 
 ## 🎯 Quick Start
 
